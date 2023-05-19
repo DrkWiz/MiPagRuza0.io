@@ -1,0 +1,34 @@
+    h1 {
+        color: brown;
+        background-color: greenyellow;
+    }
+
+    .parrafo1 {
+        color: rebeccapurple;
+        background-color: rgb(196, 28, 28);
+    }
+
+    body{
+     /* background-color: aqua; */
+    background-image: url(imagenes/Jellyfish.jpg);
+    background-size: 1280px;
+    background-repeat: no-repeat;
+    }
+
+    #italino{
+        color: rgb(13, 182, 41);
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size:xx-large;
+        text-shadow: 2px 3px 10px red;
+    }
+    #prro{
+        text-align: center;
+        color:yellow;
+
+    }
+    .parri{
+        float: left;
+        padding: 5px;
+border: 1px solid yellow;
+    }
